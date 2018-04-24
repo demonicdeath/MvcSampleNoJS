@@ -1,0 +1,59 @@
+﻿@using MTGTest.Model
+
+@model IEnumerable<BuyingInfluenceResult>
+
+@{
+    ViewBag.Title = "MTGResult";
+}
+
+<h2>MTGResult</h2>
+
+<table class="table">
+    <tr>
+        
+            <td>ID</td>
+            <td>FirstName</td>
+            <td>LastName</td>
+            <td>Email</td>
+            <td>Company</td>
+            <td>Title</td>
+            <td>Site Name</td>
+            <td>Last Login</td>
+            <td>Last Update</td>
+        
+    </tr>
+
+@foreach (var item in Model)
+{
+    <tr>
+        <td>
+            @Html.DisplayFor(modelItem => item.id)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.FirstName)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.LastName)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.email)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.Company)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.Title)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.Name)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.LastLogin)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.LastUpdate)
+        </td>
+    </tr>
+}
+
+</table>

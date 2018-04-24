@@ -1,0 +1,8 @@
+C:\MTGTest2\MTGTest.Entity\bin\Debug\MTGTest.Entity.dll.config
+C:\MTGTest2\MTGTest.Entity\bin\Debug\MTGTest.Entity.dll
+C:\MTGTest2\MTGTest.Entity\bin\Debug\MTGTest.Entity.pdb
+C:\MTGTest2\MTGTest.Entity\bin\Debug\EntityFramework.dll
+C:\MTGTest2\MTGTest.Entity\bin\Debug\EntityFramework.xml
+C:\MTGTest2\MTGTest.Entity\obj\Debug\MTGTest.Entity.csprojResolveAssemblyReference.cache
+C:\MTGTest2\MTGTest.Entity\obj\Debug\MTGTest.Entity.dll
+C:\MTGTest2\MTGTest.Entity\obj\Debug\MTGTest.Entity.pdb

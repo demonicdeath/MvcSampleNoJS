@@ -1,0 +1,5 @@
+C:\MTGTest2\MTGTest.Model\bin\Debug\MTGTest.Model.dll
+C:\MTGTest2\MTGTest.Model\bin\Debug\MTGTest.Model.pdb
+C:\MTGTest2\MTGTest.Model\obj\Debug\MTGTest.Model.csprojResolveAssemblyReference.cache
+C:\MTGTest2\MTGTest.Model\obj\Debug\MTGTest.Model.dll
+C:\MTGTest2\MTGTest.Model\obj\Debug\MTGTest.Model.pdb

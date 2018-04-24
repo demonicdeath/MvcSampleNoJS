@@ -1,0 +1,14 @@
+C:\MTGTest2\MTGTest.Data\bin\Debug\MTGTest.Data.dll.config
+C:\MTGTest2\MTGTest.Data\bin\Debug\MTGTest.Data.dll
+C:\MTGTest2\MTGTest.Data\bin\Debug\MTGTest.Data.pdb
+C:\MTGTest2\MTGTest.Data\bin\Debug\AutoMapper.dll
+C:\MTGTest2\MTGTest.Data\bin\Debug\EntityFramework.dll
+C:\MTGTest2\MTGTest.Data\bin\Debug\MTGTest.Entity.dll
+C:\MTGTest2\MTGTest.Data\bin\Debug\MTGTest.Model.dll
+C:\MTGTest2\MTGTest.Data\bin\Debug\MTGTest.Entity.pdb
+C:\MTGTest2\MTGTest.Data\bin\Debug\MTGTest.Model.pdb
+C:\MTGTest2\MTGTest.Data\bin\Debug\AutoMapper.xml
+C:\MTGTest2\MTGTest.Data\bin\Debug\EntityFramework.xml
+C:\MTGTest2\MTGTest.Data\obj\Debug\MTGTest.Data.csprojResolveAssemblyReference.cache
+C:\MTGTest2\MTGTest.Data\obj\Debug\MTGTest.Data.dll
+C:\MTGTest2\MTGTest.Data\obj\Debug\MTGTest.Data.pdb
